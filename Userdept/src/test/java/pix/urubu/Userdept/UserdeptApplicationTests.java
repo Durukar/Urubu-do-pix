@@ -1,4 +1,4 @@
-package com.urubudopix.userdept;
+package pix.urubu.Userdept;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

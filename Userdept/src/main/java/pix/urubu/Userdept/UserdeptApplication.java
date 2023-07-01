@@ -1,4 +1,4 @@
-package com.urubudopix.userdept;
+package pix.urubu.Userdept;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

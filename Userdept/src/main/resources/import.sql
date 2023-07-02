@@ -8,5 +8,5 @@ INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Eduardo', 'eduardo@u
 INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Jonathan', 'jonathan@upix.com');
 
 /* Apostadores */
-INSERT INTO tb_user(department_id, name, emai) VALUES (2, 'Matheus', 'matheus@apostador.com');
+INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Matheus', 'matheus@apostador.com');
 INSERT INTO tb_user(department_id, name, email) VALUES(2, 'Anderson', 'anderson@apostador.com');
